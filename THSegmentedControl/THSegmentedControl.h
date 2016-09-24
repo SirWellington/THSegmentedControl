@@ -1,6 +1,9 @@
 //
-//  THMultipleSelectionSegmentedControl.h
-//  THMultipleSelectionSegmentedControl
+//  THSegmentedControl.h
+//  THSegmentedControl
+//
+//  Created by Wellington Moreno on 9/24/16.
+//  Copyright © 2016 Sir Wellington. All rights reserved.
 //
 //  Created by Taylor Halliday on 11/20/13.
 //  Copyright (c) 2013 5Celsius. All rights reserved.
@@ -26,6 +29,15 @@
 //
 
 #import <UIKit/UIKit.h>
+
+//! Project version number for THSegmentedControl.
+FOUNDATION_EXPORT double THSegmentedControlVersionNumber;
+
+//! Project version string for THSegmentedControl.
+FOUNDATION_EXPORT const unsigned char THSegmentedControlVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <THSegmentedControl/PublicHeader.h>
+
 
 ///-------------------------------
 /// @name THSegmentedControl Delegate Protocol
